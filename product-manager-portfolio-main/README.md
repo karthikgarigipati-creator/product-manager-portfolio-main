@@ -95,7 +95,3 @@ Tableau • Power BI • SQL • Python • Jira • Excel • Lucidchart • Fi
 
 ---
 
-## 📫 Contact
-
-LinkedIn: https://www.linkedin.com/in/jamiechristian2/
-Email: [Jamiechristian331@gmail.com](mailto:Jamiechristian331@gmail.com)
