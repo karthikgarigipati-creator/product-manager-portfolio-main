@@ -1,4 +1,4 @@
-# 🚀 Product Manager Portfolio – Jamie Christian
+# 🚀 Product Manager Portfolio – Hari Karthik
 
 ## 👋 Overview
 
